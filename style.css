@@ -1,0 +1,45 @@
+
+.body {
+	font-size: 18px;
+	width: 800px;
+	font-family: Helvetica;
+	margin-bottom: 45px;
+	text-align: center;
+	margin: auto;
+		position: center;
+
+}
+
+.image {
+	height: auto;
+	width: 550px;
+	margin: 6px 6px 6px 6px;
+	position: center;
+}
+
+#home {
+		background-color: #969191;
+}
+
+#aboutme {
+		background-color: #969191;	
+}
+
+#experience {
+		background-color: #969191;	
+}
+
+#contactme {
+		background-color: #969191;	
+}
+
+.bar {
+		display: inline;
+		text-align: center;
+		padding: 8px;
+		font-size: 35px;
+		border: 1.6px solid #000000;
+		border-top-right-radius: 16px;
+		border-radius: 3px 3px;
+		border-top-left-radius: 14px;
+	}
